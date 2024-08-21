@@ -1,0 +1,21 @@
+{
+  "name": "kubak-theme",
+  "displayName": "Kubak Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kubak Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kubak Theme-color-theme.json"
+      }
+    ]
+  }
+}
